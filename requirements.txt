@@ -1,0 +1,14 @@
+tensorflow>=2.12.0
+keras-tuner
+opencv-python
+pillow
+numpy
+scikit-learn
+matplotlib
+seaborn
+ultralytics
+flask
+streamlit
+python-dotenv
+flask-cors
+gunicorn
